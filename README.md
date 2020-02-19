@@ -1,2 +1,3 @@
-# anaylsis_predict
-The 7 Functions for the Analysis Predict 
+# Analyze Predict
+### The 7 Functions for the Analyze Predict 
+
